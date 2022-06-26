@@ -1,0 +1,8 @@
+C:\Users\nathn\source\repos\Assigment2\Assigment2\bin\Debug\Assigment2.exe.config
+C:\Users\nathn\source\repos\Assigment2\Assigment2\bin\Debug\Assigment2.exe
+C:\Users\nathn\source\repos\Assigment2\Assigment2\bin\Debug\Assigment2.pdb
+C:\Users\nathn\source\repos\Assigment2\Assigment2\obj\Debug\Assigment2.csproj.AssemblyReference.cache
+C:\Users\nathn\source\repos\Assigment2\Assigment2\obj\Debug\Assigment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nathn\source\repos\Assigment2\Assigment2\obj\Debug\Assigment2.csproj.CoreCompileInputs.cache
+C:\Users\nathn\source\repos\Assigment2\Assigment2\obj\Debug\Assigment2.exe
+C:\Users\nathn\source\repos\Assigment2\Assigment2\obj\Debug\Assigment2.pdb
